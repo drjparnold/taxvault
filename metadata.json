@@ -1,0 +1,6 @@
+{
+  "name": "TaxVault",
+  "description": "Invoice scanner for tax deduction tracking with automatic sheet export and date- and category-organized Google Drive folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
